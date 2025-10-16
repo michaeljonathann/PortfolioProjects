@@ -1,6 +1,6 @@
 # Bike Sales Dashboard: Customer Demographics and Purchase Behavior Analysis
 
-Analisis mendalam terhadap data penjualan sepeda untuk mengidentifikasi faktor demografi dan perilaku utama yang mendorong keputusan pembelian.
+To create an interactive data dashboard using Microsoft Excel (or similar tools) to analyze and visualize the demographic and behavioral factors that influence customer bicycle purchasing decisions. The objective is to provide actionable insights for the Sales and Marketing teams.
 
 ---
 
