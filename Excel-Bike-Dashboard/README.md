@@ -16,7 +16,7 @@ To create an **interactive data dashboard** using Microsoft Excel to analyze and
 
 ## 📊 Data & Tools
 
-| Kategori | Detail |
+| Category | Detail |
 | :--- | :--- |
 | **Data Used** | Bike Sales Data, including attributes such as Marital Status, Region, Education Level, Number of Children, Average Income, Age, and Daily Commute Distance. |
 | **Primary Tool** | **Microsoft Excel** (Leveraging Pivot Tables, Pivot Charts, and Slicers for interactivity). |
@@ -37,7 +37,7 @@ The dashboard allows for the exploration of several critical insights:
 
 ## ✅ Project Contribution and Value
 
-| Area | Nilai Kontribusi |
+| Area | Contribution Value |
 | :--- | :--- |
 | **Data-Driven Decisions** | Delivers a quick, accessible visual tool for the Sales team to **identify high-potential target markets** and focus resources effectively. |
 | **Marketing Strategy** | Facilitates the adjustment of marketing strategies (e.g., targeted campaigns in specific regions or for specific education levels) based on **real-time data** from the dashboard. |
